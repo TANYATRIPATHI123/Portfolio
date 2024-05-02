@@ -1,2 +1,2 @@
 # Portfolio
-This is portfolio project that I have made using HTML and CSS.
+This is portfolio project that is made using HTML and CSS.
